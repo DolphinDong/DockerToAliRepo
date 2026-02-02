@@ -1,1 +1,1 @@
-trinodb/trino:479
+alpine:3.21.1
