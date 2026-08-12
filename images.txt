@@ -1,1 +1,2 @@
-openresty/openresty:1.27.1.2-10-alpine
+golang:1.25.11-alpine3.23
+alpine:3.21.1
